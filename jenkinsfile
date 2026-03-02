@@ -26,8 +26,4 @@ pipeline {
             }
         }
     }
-}
-
-'/#* 
- * This is a Jenkins pipeline script that defines a simple CI/CD process with four stages: Build, Test, Package, and Deploy. Each stage contains a step that echoes a message indicating the completion of that stage. The pipeline is set to run on any available agent.
- *#/'
+} 
